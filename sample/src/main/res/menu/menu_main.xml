@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="emadoki.edslider.app.MainActivity">
+    <item
+        android:id="@+id/changeview"
+        android:orderInCategory="100"
+        android:title="Change View"
+        app:showAsAction="always"/>
+</menu>
